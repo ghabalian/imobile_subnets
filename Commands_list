@@ -1,0 +1,2 @@
+sh run interface vl 1241
+sh run | i hostname

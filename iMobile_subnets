@@ -1,0 +1,25 @@
+device: hostname TXA-CRMC-6807-1 , 10.201.252.47 Vlan1241 =  ip address 10.205.180.1 255.255.252.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-BSCM-6807-VSS , 10.201.252.19 Vlan1241 =  ip address 10.205.228.1 255.255.252.0
+device: hostname TXA-TBMC-6807-1 , 10.201.252.235 Vlan1241 =  ip address 10.36.136.1 255.255.252.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-BSCM-6807-VSS , 10.201.252.19 Vlan1241 =  ip address 10.205.228.1 255.255.252.0
+device: hostname TXA-TBMC-6807-1 , 10.201.252.235 Vlan1241 =  ip address 10.36.136.1 255.255.252.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-BSCM-6807-VSS , 10.201.252.19 Vlan1241 =  ip address 10.205.228.1 255.255.252.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-BSCM-6807-VSS , 10.201.252.19 Vlan1241 =  ip address 10.205.228.1 255.255.252.0
+device: hostname TXA-TBMC-6807-1 , 10.201.252.235 Vlan1241 =  ip address 10.36.136.1 255.255.252.0
+device: hostname TXA-CRMC-6807-1 , 10.201.252.47 Vlan1241 =  ip address 10.205.180.1 255.255.252.0
+device: 
+hostname TXA-HNMC-6807-1 , 10.201.253.5 Vlan1241 =  ip address 10.205.244.1 255.255.252.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
+device: hostname TXA-MMCH-6807-VSS , 10.201.252.80 Vlan1241 =  ip address 10.197.90.1 255.255.254.0
